@@ -1,0 +1,47 @@
+
+*{
+    margin:0;
+    padding:0;
+    border:0;
+}
+
+#all{
+    position:relative;
+    width:1920px;
+    height:1080px;
+    margin:0 auto;
+}
+
+#div1{
+    width:576px;
+    height:1080px;
+    margin:0 auto;
+    position:absolute;
+}
+
+#div2{
+    width:1344px;
+    left:576px;
+    height:1080px;
+    margin:0 auto;
+    position:absolute;
+}
+
+#div21{
+    position:absolute;
+    top:96px;
+    left:100px;
+}
+
+#div22{
+    position:absolute;
+    top:96px;
+    left:400px;
+}
+
+#div23{
+    position:absolute;
+    top:96px;
+    left:600px;
+    width:450px;
+}
